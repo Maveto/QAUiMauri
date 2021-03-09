@@ -1,48 +1,52 @@
-basicSelenium/basicTest.java
- basicSelenium.basicTest
 basicSelenium/TareaDelete.java
  basicSelenium.TareaDelete
-basicSelenium/BasicUpdateProject.java
- basicSelenium.BasicUpdateProject
-basicSelenium/BasicCreateProjectTest.java
- basicSelenium.BasicCreateProjectTest
-factoryBrowser/Edge.java
- factoryBrowser.Edge
-factoryBrowser/FactoryBrowser.java
- factoryBrowser.FactoryBrowser
-factoryBrowser/FireFox.java
- factoryBrowser.FireFox
-factoryBrowser/IBrowser.java
- factoryBrowser.IBrowser
-singletonSession/Session.java
- singletonSession.Session
-factoryBrowser/Chrome.java
- factoryBrowser.Chrome
 controls/Label.java
  controls.Label
-pomPages/todoLy/MainPage.java
- pomPages.todoLy.MainPage
-testClean/CreateProjectTest.java
- testClean.CreateProjectTest
-pomPages/todoLy/LoginModal.java
- pomPages.todoLy.LoginModal
-pomPages/todoLy/MenuSection.java
- pomPages.todoLy.MenuSection
-controls/Image.java
- controls.Image
+controls/AlertControl.java
+ controls.AlertControl
+singletonSession/Session.java
+ singletonSession.Session
+factoryBrowser/IBrowser.java
+ factoryBrowser.IBrowser
 testClean/LoginTest.java
  testClean.LoginTest
-pomPages/todoLy/CenterSection.java
- pomPages.todoLy.CenterSection
-controls/Button.java
- controls.Button
-controls/Control.java
- controls.Control
+testClean/CrudItem.java
+ testClean.CrudItem
+factoryBrowser/Edge.java
+ factoryBrowser.Edge
 controls/TextBox.java
  controls.TextBox
 pomPages/todoLy/LeftSection.java
  pomPages.todoLy.LeftSection
-controls/AlertControl.java
- controls.AlertControl
+factoryBrowser/FireFox.java
+ factoryBrowser.FireFox
+factoryBrowser/FactoryBrowser.java
+ factoryBrowser.FactoryBrowser
+testClean/CreateProjectTest.java
+ testClean.CreateProjectTest
 testClean/TareaCrudProjectClean.java
  testClean.TareaCrudProjectClean
+pomPages/todoLy/MenuSection.java
+ pomPages.todoLy.MenuSection
+controls/Image.java
+ controls.Image
+pomPages/todoLy/CenterSection.java
+ pomPages.todoLy.CenterSection
+basicSelenium/BasicCreateProjectTest.java
+ basicSelenium.BasicCreateProjectTest
+basicSelenium/basicTest.java
+ basicSelenium.basicTest
+controls/Button.java
+ controls.Button
+factoryBrowser/Chrome.java
+ factoryBrowser.Chrome
+controls/Control.java
+ controls.Control
+basicSelenium/BasicUpdateProject.java
+ basicSelenium.BasicUpdateProject
+pomPages/todoLy/MainPage.java
+ pomPages.todoLy.MainPage
+factoryBrowser/BrowserStack.java
+ factoryBrowser.BrowserStack
+pomPages/todoLy/LoginModal.java
+ pomPages.todoLy.LoginModal
