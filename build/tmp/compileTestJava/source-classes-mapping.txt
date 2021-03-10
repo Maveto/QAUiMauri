@@ -2,16 +2,16 @@ basicSelenium/TareaDelete.java
  basicSelenium.TareaDelete
 controls/Label.java
  controls.Label
-controls/AlertControl.java
- controls.AlertControl
-singletonSession/Session.java
- singletonSession.Session
+factoryBrowser/FactoryBrowser.java
+ factoryBrowser.FactoryBrowser
+basicSelenium/BasicUpdateProject.java
+ basicSelenium.BasicUpdateProject
 factoryBrowser/IBrowser.java
  factoryBrowser.IBrowser
-testClean/LoginTest.java
- testClean.LoginTest
-testClean/CrudItem.java
- testClean.CrudItem
+factoryBrowser/Chrome.java
+ factoryBrowser.Chrome
+controls/Button.java
+ controls.Button
 factoryBrowser/Edge.java
  factoryBrowser.Edge
 controls/TextBox.java
@@ -22,10 +22,10 @@ factoryBrowser/BrowserStack.java
  factoryBrowser.BrowserStack
 pomPages/todoLy/LoginModal.java
  pomPages.todoLy.LoginModal
-testClean/CreateProjectTest.java
- testClean.CreateProjectTest
-testClean/TareaCrudProjectClean.java
- testClean.TareaCrudProjectClean
+pomPages/todoLy/MainPage.java
+ pomPages.todoLy.MainPage
+factoryBrowser/FireFox.java
+ factoryBrowser.FireFox
 pomPages/todoLy/MenuSection.java
  pomPages.todoLy.MenuSection
 controls/Image.java
@@ -36,17 +36,25 @@ basicSelenium/BasicCreateProjectTest.java
  basicSelenium.BasicCreateProjectTest
 basicSelenium/basicTest.java
  basicSelenium.basicTest
-controls/Button.java
- controls.Button
-factoryBrowser/Chrome.java
- factoryBrowser.Chrome
 controls/Control.java
  controls.Control
-basicSelenium/BasicUpdateProject.java
- basicSelenium.BasicUpdateProject
-pomPages/todoLy/MainPage.java
- pomPages.todoLy.MainPage
-factoryBrowser/FactoryBrowser.java
- factoryBrowser.FactoryBrowser
-factoryBrowser/FireFox.java
- factoryBrowser.FireFox
+controls/AlertControl.java
+ controls.AlertControl
+testClean/CreateProjectTest.java
+ testClean.CreateProjectTest
+singletonSession/Session.java
+ singletonSession.Session
+testClean/TareaCrudProjectClean.java
+ testClean.TareaCrudProjectClean
+testClean/LoginTest.java
+ testClean.LoginTest
+testClean/CrudItem.java
+ testClean.CrudItem
+pomPages/todoLy/TodoistFirstPage.java
+ pomPages.todoLy.TodoistFirstPage
+pomPages/todoLy/TodoistMain.java
+ pomPages.todoLy.TodoistMain
+testClean/TodoistTest.java
+ testClean.TodoistTest
+pomPages/todoLy/TodoistLogin.java
+ pomPages.todoLy.TodoistLogin

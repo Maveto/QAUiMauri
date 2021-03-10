@@ -9,7 +9,7 @@ public class Session {
     private WebDriver driver;
 
     private Session(){
-        this.driver=FactoryBrowser.make("firefox").create();
+        this.driver=FactoryBrowser.make("chrome").create();
     }
 
     public static Session getSession(){
