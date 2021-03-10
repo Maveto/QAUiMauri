@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="testClean.CrudItem" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-09T13:41:22" hostname="LAPTOP-4CABPQ75" time="16.702">
+<testsuite name="testClean.CrudItem" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-10T02:54:30" hostname="LAPTOP-4CABPQ75" time="28.214">
   <properties/>
-  <testcase name="verify_item_crud_todoly" classname="testClean.CrudItem" time="16.702"/>
+  <testcase name="verify_item_crud_todoly" classname="testClean.CrudItem" time="28.214"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 89.0.4389.23 (61b08ee2c50024bab004e48d2b1b083cdbdac579-refs/branch-heads/4389@{#294}) on port 32554
-Only local connections are allowed.
-Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
-ChromeDriver was started successfully.
-mar 09, 2021 9:41:23 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+  <system-err><![CDATA[1615344871159	geckodriver	INFO	Listening on 127.0.0.1:36146
+1615344871818	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LEGION\\AppData\\Local\\Temp\\rust_mozprofileoZTRUm"
+1615344873173	Marionette	INFO	Listening on port 52874
+1615344873328	Marionette	WARN	TLS certificate errors will be ignored for this session
+mar 09, 2021 10:54:33 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMACIÓN: Detected dialect: W3C
+[Parent 10900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 27384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 27384, Chrome_ChildThread] WARNING: pipe error: 109[Child 26332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[Child 26332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chro[GPU 26532, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
 ]]></system-err>
 </testsuite>

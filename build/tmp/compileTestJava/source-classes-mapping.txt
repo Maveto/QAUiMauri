@@ -18,10 +18,10 @@ controls/TextBox.java
  controls.TextBox
 pomPages/todoLy/LeftSection.java
  pomPages.todoLy.LeftSection
-factoryBrowser/FireFox.java
- factoryBrowser.FireFox
-factoryBrowser/FactoryBrowser.java
- factoryBrowser.FactoryBrowser
+factoryBrowser/BrowserStack.java
+ factoryBrowser.BrowserStack
+pomPages/todoLy/LoginModal.java
+ pomPages.todoLy.LoginModal
 testClean/CreateProjectTest.java
  testClean.CreateProjectTest
 testClean/TareaCrudProjectClean.java
@@ -46,7 +46,7 @@ basicSelenium/BasicUpdateProject.java
  basicSelenium.BasicUpdateProject
 pomPages/todoLy/MainPage.java
  pomPages.todoLy.MainPage
-factoryBrowser/BrowserStack.java
- factoryBrowser.BrowserStack
-pomPages/todoLy/LoginModal.java
- pomPages.todoLy.LoginModal
+factoryBrowser/FactoryBrowser.java
+ factoryBrowser.FactoryBrowser
+factoryBrowser/FireFox.java
+ factoryBrowser.FireFox
